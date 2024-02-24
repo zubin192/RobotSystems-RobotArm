@@ -1,0 +1,82 @@
+2024-02-17 17:26:03.484 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-17 17:26:03.484 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-17 17:26:03.484 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-17 17:26:03.484 [info] Experiment 'pythonTestAdapter' is active
+2024-02-17 17:26:03.484 [info] Default formatter is set to null for workspace /home/pi
+2024-02-17 17:26:03.484 [info] Test server listening.
+2024-02-17 17:26:03.484 [info] Python interpreter path: /usr/bin/python
+2024-02-17 17:26:03.756 [info] Send text to terminal: /usr/bin/python /home/pi/ArmPi/ArmIK/ArmMoveIK.py
+2024-02-17 17:26:07.037 [info] Starting Pylance language server.
+2024-02-17 17:26:10.730 [info] Selected workspace /home/pi for creating virtual environment.
+2024-02-17 17:26:10.946 [info] > conda info --json
+2024-02-17 17:26:11.026 [info] Found: /usr/bin/python --> /usr/bin/python2.7
+2024-02-17 17:26:11.035 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-02-17 17:26:11.039 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-02-17 17:26:11.064 [info] Found: /usr/bin/python3 --> /usr/bin/python3.7
+2024-02-17 17:26:11.066 [info] Found: /usr/bin/python3.7 --> /usr/bin/python3.7
+2024-02-17 17:26:11.141 [info] > /usr/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-17 17:26:11.155 [info] Found: /usr/include/python3.7 --> /usr/include/python3.7m
+2024-02-17 17:26:11.166 [warning] Error: Command failed: /usr/bin/python -I /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+    at ChildProcess.exithandler (node:child_process:420:12)
+    at ChildProcess.emit (node:events:526:35)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python -I /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py'
+}
+2024-02-17 17:26:11.167 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-02-17 17:26:11.262 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-17 17:26:11.423 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-17 17:26:11.794 [info] > /usr/include/python3.7 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-17 17:26:11.828 [error] Error: Command failed: /usr/include/python3.7 -I /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.7: Permission denied
+
+    at ChildProcess.exithandler (node:child_process:420:12)
+    at ChildProcess.emit (node:events:526:35)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.7 -I /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py'
+}
+2024-02-17 17:26:13.897 [info] > /usr/include/python3.7 -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-17 17:26:13.910 [error] Error: Command failed: /usr/include/python3.7 -I /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.7: Permission denied
+
+    at ChildProcess.exithandler (node:child_process:420:12)
+    at ChildProcess.emit (node:events:526:35)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.7 -I /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py /home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py'
+}
+2024-02-17 17:26:14.323 [info] Selected interpreter /usr/bin/python for creating virtual environment.
+2024-02-17 17:26:18.036 [info] Running Env creation script:  [
+  '/usr/bin/python',
+  '/home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/create_venv.py',
+  '--git-ignore',
+  '--requirements',
+  '/home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/requirements.txt'
+]
+2024-02-17 17:26:18.037 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/create_venv.py --git-ignore --requirements ./.vscode-server/extensions/ms-python.python-2024.0.1/requirements.txt
+2024-02-17 17:26:18.037 [info] cwd: .
+2024-02-17 17:26:18.161 [info]   File "/home/pi/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/create_venv.py", line 23
+    def parse_args(argv: Sequence[str]) -> argparse.Namespace:
+                       ^
+SyntaxError: invalid syntax
+2024-02-17 17:26:18.196 [error] Error while running venv creation script:  undefined
+2024-02-17 17:26:18.197 [error] Failed to create virtual environment with exitCode: 1
+2024-02-17 17:26:23.184 [info] Send text to terminal: /usr/bin/python /home/pi/ArmPi/ArmIK/ArmMoveIK.py

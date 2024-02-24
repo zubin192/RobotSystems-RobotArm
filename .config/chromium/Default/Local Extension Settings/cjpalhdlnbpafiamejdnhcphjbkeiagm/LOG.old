@@ -1,0 +1,32 @@
+2024/02/17-20:18:48.156 557 Creating DB /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2024/02/17-20:18:48.207 557 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/02/17-20:19:05.698 628 Level-0 table #5: started
+2024/02/17-20:19:06.118 628 Level-0 table #5: 1846338 bytes OK
+2024/02/17-20:19:06.129 628 Delete type=0 #3
+2024/02/17-20:19:29.264 549 Level-0 table #7: started
+2024/02/17-20:19:29.479 549 Level-0 table #7: 1355030 bytes OK
+2024/02/17-20:19:29.487 549 Delete type=0 #4
+2024/02/17-20:19:38.794 628 Level-0 table #9: started
+2024/02/17-20:19:39.041 628 Level-0 table #9: 1463362 bytes OK
+2024/02/17-20:19:39.048 628 Delete type=0 #6
+2024/02/17-20:19:51.518 549 Level-0 table #11: started
+2024/02/17-20:19:51.963 549 Level-0 table #11: 1497403 bytes OK
+2024/02/17-20:19:51.996 549 Delete type=0 #8
+2024/02/17-20:19:53.173 61a Level-0 table #13: started
+2024/02/17-20:19:55.814 61a Level-0 table #13: 2028632 bytes OK
+2024/02/17-20:19:55.839 61a Delete type=0 #10
+2024/02/17-20:22:00.410 61a Level-0 table #15: started
+2024/02/17-20:22:00.877 61a Level-0 table #15: 3604663 bytes OK
+2024/02/17-20:22:00.926 61a Delete type=0 #12
+2024/02/17-20:22:00.934 61a Compacting 4@0 + 1@1 files
+2024/02/17-20:22:01.440 61a Generated table #16@0: 9 keys, 2767639 bytes
+2024/02/17-20:22:01.880 61a Generated table #17@0: 9 keys, 2812582 bytes
+2024/02/17-20:22:02.399 61a Generated table #18@0: 1 keys, 2491572 bytes
+2024/02/17-20:22:02.531 61a Generated table #19@0: 7 keys, 779157 bytes
+2024/02/17-20:22:02.531 61a Compacted 4@0 + 1@1 files => 8850950 bytes
+2024/02/17-20:22:02.550 61a compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/02/17-20:22:02.551 61a Delete type=2 #11
+2024/02/17-20:22:02.551 61a Delete type=2 #9
+2024/02/17-20:22:02.551 61a Delete type=2 #15
+2024/02/17-20:22:02.551 61a Delete type=2 #7
+2024/02/17-20:22:02.551 61a Delete type=2 #13

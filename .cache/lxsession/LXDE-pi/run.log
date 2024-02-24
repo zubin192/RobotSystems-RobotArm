@@ -1,0 +1,235 @@
+** Message: 12:23:10.964: environement.vala:58: Exporting primary_variable
+** Message: 12:23:10.965: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 12:23:10.965: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 12:23:10.965: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 12:23:10.965: environement.vala:218: custom_data :
+** Message: 12:23:10.965: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:23:10.965: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:23:10.965: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 12:23:10.965: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:23:10.966: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 12:23:10.966: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 12:23:10.966: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:23:10.966: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:1022): WARNING **: 12:23:10.968: utils.vala:70: No such file or directory
+** Message: 12:23:10.968: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 12:23:10.968: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “launcher_manager/autostart” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 12:23:10.969: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 12:23:10.970: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “images_display/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 12:23:10.971: settings.vala:540: Key file does not have group “Keymap”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “laptop_mode” in group “State”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “gnome” in group “Dbus”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “type” in group “Environment”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “ubuntu_menuproxy” in group “Environment”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “toolkit_integration” in group “Environment”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “gtk/overlay_scrollbar_disable” in group “Environment”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “qt/force_theme” in group “Environment”
+** Message: 12:23:10.972: settings.vala:540: Key file does not have key “qt/platform” in group “Environment”
+** Message: 12:23:10.973: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 12:23:10.973: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 12:23:10.973: settings.vala:485: Monitoring home path: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 12:23:10.973: environement.vala:79: Exporting variable
+** Message: 12:23:10.973: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 12:23:10.973: environement.vala:177: custom_config :
+** Message: 12:23:10.973: environement.vala:178: config_dirs :/etc/xdg
+** Message: 12:23:10.973: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 12:23:10.973: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 12:23:10.973: environement.vala:218: custom_data :
+** Message: 12:23:10.973: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:23:10.973: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 12:23:10.973: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 12:23:10.973: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:23:10.974: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:1022): WARNING **: 12:23:10.974: utils.vala:70: No such file or directory
+** Message: 12:23:10.974: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 12:23:10.987: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:23:10.987: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 12:23:10.987: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 12:23:10.987: options.vala:164: Activate xsettings_manager build-in
+** Message: 12:23:10.987: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:23:10.987: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:1022): WARNING **: 12:23:10.988: utils.vala:70: No such file or directory
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 12:23:11.055: app.vala:721: polkit separate
+** Message: 12:23:11.056: app.vala:721: polkit separate
+** Message: 12:23:11.072: app.vala:76: Launching lxpolkit 
+** Message: 12:23:11.072: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 12:23:11.073: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 12:23:11.073: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 12:23:11.073: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 12:23:11.107: app.vala:76: Launching lxpanel 
+** Message: 12:23:11.126: app.vala:76: Launching pcmanfm 
+
+** (lxsession:1022): WARNING **: 12:23:11.141: app.vala:86: Failed to execute child process “xscreensaver” (No such file or directory)
+
+** (lxsession:1022): WARNING **: 12:23:11.141: app.vala:87: Error when launching xscreensaver
+** Message: 12:23:11.156: options.vala:107: Create build-in Clipboard
+** Message: 12:23:11.159: main.vala:441: Check keymap_mode (null)
+** Message: 12:23:11.190: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-ElK59TwtadNp/agent.1150; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=1153; export SSH_AGENT_PID;
+echo Agent pid 1153;
+** Message: 12:23:11.232: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 12:23:11.310: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 12:23:11.313: x-terminal-emulator has very limited support, consider choose another terminal
+grep: /home/pi/.config/lxpanel/LXDE-pi/panels/*: No such file or directory
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: 12:23:13.040: Connecting ...
+** Message: 12:23:13.041: Status changed to down
+Unit pt-device-manager.service could not be found.
+
+** (lxpanel:1146): WARNING **: 12:23:13.264: Battery 0 not found
+** Message: 12:23:14.042: Status changed to opened
+** Message: 12:23:14.042: Connected to dhcpcd-8.1.2
+** Message: 12:23:14.044: Status changed to connected
+** Message: 12:23:14.044: eth0: Link is down
+** Message: 12:23:14.044: wlan0: Associated with robotics
+** Message: 12:23:14.044: wlan0: Configured 10.214.159.110/21
+** Message: 12:23:14.046: wlan0: WPA status connected
+** Message: 12:23:14.047: wlan0: Received scan results
+** Message: 14:01:08.921: wlan0: Received scan results
+** Message: 14:02:08.831: wlan0: Received scan results
+** Message: 14:03:08.938: wlan0: Received scan results
+** Message: 14:03:47.907: wlan0: Disassociated from robotics
+** Message: 14:03:47.927: Status changed to disconnected
+** Message: 14:03:47.928: wlan0: Associated with robotics
+** Message: 14:03:47.946: Status changed to connecting
+** Message: 14:03:53.717: wlan0: Configured 10.214.159.110/21
+** Message: 14:03:53.717: Status changed to connected
+** Message: 14:04:08.929: wlan0: Received scan results
+** Message: 14:05:08.914: wlan0: Received scan results
+** Message: 14:06:08.837: wlan0: Received scan results
+** Message: 14:07:08.838: wlan0: Received scan results
+** Message: 14:08:08.839: wlan0: Received scan results
+** Message: 14:09:08.858: wlan0: Received scan results
+** Message: 14:10:08.865: wlan0: Received scan results
+** Message: 14:11:08.867: wlan0: Received scan results
+** Message: 14:12:08.885: wlan0: Received scan results
+** Message: 14:13:08.892: wlan0: Received scan results
+** Message: 14:14:08.837: wlan0: Received scan results
+** Message: 14:15:08.905: wlan0: Received scan results
+** Message: 14:16:08.906: wlan0: Received scan results
+** Message: 14:17:08.919: wlan0: Received scan results
+** Message: 14:18:08.922: wlan0: Received scan results
+** Message: 14:19:08.873: wlan0: Received scan results
+** Message: 14:20:08.882: wlan0: Received scan results
+** Message: 14:21:08.848: wlan0: Received scan results
+** Message: 14:22:08.857: wlan0: Received scan results
+** Message: 14:23:08.859: wlan0: Received scan results
+** Message: 14:24:08.880: wlan0: Received scan results
+** Message: 14:25:08.872: wlan0: Received scan results
+** Message: 14:26:08.889: wlan0: Received scan results
+** Message: 14:27:08.893: wlan0: Received scan results
+** Message: 14:28:08.900: wlan0: Received scan results
+** Message: 14:29:08.909: wlan0: Received scan results
+BlueALSA detected - Disabling audio sandbox
+[1796:1796:0224/142923.253386:ERROR:component_loader.cc(186)] Failed to parse extension manifest.
+[1851:1851:0224/142923.269877:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is egl
+[1796:1986:0224/142924.324034:ERROR:object_proxy.cc(622)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1796:1986:0224/142924.328411:ERROR:object_proxy.cc(622)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1796:1986:0224/142924.329387:ERROR:object_proxy.cc(622)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1851:1851:0224/142924.629121:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[1851:1851:0224/142948.064684:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[1851:1851:0224/142948.068379:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+** Message: 14:30:08.918: wlan0: Received scan results
+** Message: 14:31:08.925: wlan0: Received scan results
+** Message: 14:32:08.867: wlan0: Received scan results
+** Message: 14:33:08.874: wlan0: Received scan results
+** Message: 14:34:08.937: wlan0: Received scan results
+** Message: 14:35:08.853: wlan0: Received scan results
+** Message: 14:36:08.859: wlan0: Received scan results
+** Message: 14:37:08.864: wlan0: Received scan results
+** Message: 14:38:08.869: wlan0: Received scan results
+** Message: 14:39:08.882: wlan0: Received scan results
+** Message: 14:40:08.889: wlan0: Received scan results
+** Message: 14:41:08.895: wlan0: Received scan results
+** Message: 14:42:08.911: wlan0: Received scan results
+** Message: 14:43:08.907: wlan0: Received scan results
+** Message: 14:44:08.921: wlan0: Received scan results
+** Message: 14:45:08.929: wlan0: Received scan results
+** Message: 14:46:08.873: wlan0: Received scan results
+** Message: 14:47:08.877: wlan0: Received scan results
+** Message: 14:48:08.787: wlan0: Received scan results
+** Message: 14:49:08.853: wlan0: Received scan results
+** Message: 14:50:08.951: wlan0: Received scan results
+** Message: 14:51:08.870: wlan0: Received scan results
+** Message: 14:52:08.879: wlan0: Received scan results
+** Message: 14:53:08.880: wlan0: Received scan results
+** Message: 14:54:08.893: wlan0: Received scan results
+** Message: 14:55:08.896: wlan0: Received scan results
+** Message: 14:56:08.913: wlan0: Received scan results
+** Message: 14:57:08.919: wlan0: Received scan results
+** Message: 14:58:08.862: wlan0: Received scan results
+** Message: 14:59:08.932: wlan0: Received scan results
+** Message: 15:00:08.940: wlan0: Received scan results
+** Message: 15:01:08.947: wlan0: Received scan results
+** Message: 15:02:08.962: wlan0: Received scan results
+** Message: 15:03:08.953: wlan0: Received scan results
+** Message: 15:04:08.967: wlan0: Received scan results
+** Message: 15:05:08.876: wlan0: Received scan results
+** Message: 15:06:08.882: wlan0: Received scan results
+** Message: 15:07:08.888: wlan0: Received scan results
+** Message: 15:08:08.897: wlan0: Received scan results
+** Message: 15:09:08.902: wlan0: Received scan results
+** Message: 15:10:08.909: wlan0: Received scan results
+** Message: 15:11:08.909: wlan0: Received scan results
+** Message: 15:12:08.913: wlan0: Received scan results
+** Message: 15:13:08.857: wlan0: Received scan results
+** Message: 15:14:08.925: wlan0: Received scan results
+** Message: 15:15:08.861: wlan0: Received scan results
+** Message: 15:16:08.933: wlan0: Received scan results
+** Message: 15:17:08.939: wlan0: Received scan results
+** Message: 15:18:08.954: wlan0: Received scan results
+** Message: 15:19:08.948: wlan0: Received scan results
+** Message: 15:20:08.959: wlan0: Received scan results
+** Message: 15:21:08.969: wlan0: Received scan results
+** Message: 15:22:08.972: wlan0: Received scan results

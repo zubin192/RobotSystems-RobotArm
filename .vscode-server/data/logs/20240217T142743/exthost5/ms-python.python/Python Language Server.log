@@ -1,0 +1,19 @@
+2024-02-17 17:26:04.779 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-17 17:26:06.913 [info] [Info  - 5:26:06 PM] (7707) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-17 17:26:06.914 [info] [Info  - 5:26:06 PM] (7707) Server root directory: file:///home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-17 17:26:06.919 [info] [Info  - 5:26:06 PM] (7707) Starting service instance "pi"
+2024-02-17 17:26:07.175 [info] [Info  - 5:26:07 PM] (7707) Setting pythonPath for service "pi": "/usr/bin/python"
+2024-02-17 17:26:07.178 [info] [Info  - 5:26:07 PM] (7707) Setting environmentName for service "pi": "2.7.16 (global)"
+2024-02-17 17:26:07.752 [info] [Info  - 5:26:07 PM] (7707) Found 88 source files
+2024-02-17 17:26:09.609 [info] [Info  - 5:26:09 PM] (7707) Background analysis(1) root directory: file:///home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-17 17:26:09.626 [info] [Info  - 5:26:09 PM] (7707) Background analysis(1) started
+2024-02-17 17:26:10.665 [info] [Info  - 5:26:10 PM] (7707) Indexer background runner(2) root directory: file:///home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-17 17:26:10.666 [info] [Info  - 5:26:10 PM] (7707) Indexing(2) started
+2024-02-17 17:26:15.250 [info] [Info  - 5:26:15 PM] (7707) [IDX(2)] Long operation: scan packages file:///home/pi (4552ms)
+2024-02-17 17:26:15.253 [info] [Info  - 5:26:15 PM] (7707) scanned(2) 97 files over 1 exec env
+2024-02-17 17:26:16.418 [info] [Info  - 5:26:16 PM] (7707) [BG(1)] Long operation: binding: file:///usr/lib/python2.7/dist-packages/numpy/__init__.py (3458ms)
+2024-02-17 17:26:19.698 [info] [Info  - 5:26:19 PM] (7707) [BG(1)] Long operation: checking: file:///home/pi/ArmPi/ArmIK/ArmMoveIK.py (8239ms)
+2024-02-17 17:26:19.699 [info] [Info  - 5:26:19 PM] (7707) [BG(1)] Long operation: analyzing: file:///home/pi/ArmPi/ArmIK/ArmMoveIK.py (9739ms)
+2024-02-17 17:26:20.195 [info] [Info  - 5:26:20 PM] (7707) indexed(2) 30 files over 1 exec env
+2024-02-17 17:26:20.620 [info] [Info  - 5:26:20 PM] (7707) Indexing finished(2).
+2024-02-17 17:36:15.621 [info] [Info  - 5:36:15 PM] (7707) Found 88 source files
